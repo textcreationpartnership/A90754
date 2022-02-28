@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The profitable intelligencer, communicating his knowledge for the generall good of the common-wealth and all posterity. Containing many rare secrets and experiments (having reference to a larger book) which being well observed, and industriously practised, according to the directions therein by all the inhabitants of England in generall, will recover the wealth of the kingdom now so miserably wasted by these unnaturall wars, and make it the most flourishing countrey in the world, and cause more naked to be clothed, more hungry to be fed, more poore virgins to be preferred in marriage, more sick to be healed, then Suttons Hospitall the Savoy, and all the hospitals and liberall gifts in England have ever performed, by certain wayes which require no charge nor labour, but what every active person shall be double payed for. A copie of the letter, wherein the discourse entituled, Mercurius Lætificans, was sent enclosed to the authors most worthy, and highly honoured friend, Mr. Samuel Hartlib.</title>
+            <author>Plattes, Gabriel, fl. 1638-1640.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90754</idno>
+            <idno type="STC">Wing P2414</idno>
+            <idno type="STC">Thomason E52_1</idno>
+            <idno type="STC">ESTC R12431</idno>
+            <idno type="EEBO-CITATION">99859282</idno>
+            <idno type="PROQUEST">99859282</idno>
+            <idno type="VID">111354</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111354)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E52[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The profitable intelligencer, communicating his knowledge for the generall good of the common-wealth and all posterity. Containing many rare secrets and experiments (having reference to a larger book) which being well observed, and industriously practised, according to the directions therein by all the inhabitants of England in generall, will recover the wealth of the kingdom now so miserably wasted by these unnaturall wars, and make it the most flourishing countrey in the world, and cause more naked to be clothed, more hungry to be fed, more poore virgins to be preferred in marriage, more sick to be healed, then Suttons Hospitall the Savoy, and all the hospitals and liberall gifts in England have ever performed, by certain wayes which require no charge nor labour, but what every active person shall be double payed for. A copie of the letter, wherein the discourse entituled, Mercurius Lætificans, was sent enclosed to the authors most worthy, and highly honoured friend, Mr. Samuel Hartlib.</title>
+                  <author>Plattes, Gabriel, fl. 1638-1640.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order. For T. U. at the Bible in Woodstreet,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Gabriel Plattes.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "June 29. 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hospitals --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:111354:1"/>
+            <pb facs="tcp:111354:1" rendition="simple:additions"/>
+            <head>The profitable INTELLIGENCER, Communicating his Knowledge for the Ge<g ref="char:EOLhyphen"/>nerall good of the Common-wealth and all Poſterity. Containing many rare Secrets and Experiments (having reference to a larger Book) which being well obſerved, and induſtriouſly practiſed, accor<g ref="char:EOLhyphen"/>ding to the Directions therein by all the Inhabitants of <hi>England</hi> in generall, will recover the Wealth of the Kingdom now ſo miſerably waſted by theſe un<g ref="char:EOLhyphen"/>naturall Wars, and make it the moſt flouriſhing Countrey in the world, and cauſe more naked to be clothed, more hungry to be fed, more poore Virgins to be preferred in marriage, more ſick to be healed, then Suttons Hoſpitall; the Savoy, and all the Hoſpi<g ref="char:EOLhyphen"/>tals and liberall Gifts in England have ever performed, by certain wayes which require no charge nor labour, but what every active perſon ſhall be double payed for</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Copie of the Letter, wherein the Diſcourſe entituled, <hi>Mercurius Laetificans,</hi> was ſent encloſed to the Authors moſt worthy, and highly honoured Friend, Mr. <hi>Samuel Hartlib.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>YOur cordiall love to the Kingdoms good, being ſo clearly expreſſed to the world, not onely by your pen, but alſo by your conſtant practiſe in promoting of all good deſignes, which tend to the generall good of the Common-wealth, hath emboldned me to ſend you this encloſed Copie, deſiring that you will be pleaſed to take care, that it may be forthwith Printed, and publiſhed, together with this Letter, which may be all contrived into one ſheet of paper, if the Printer he skilfull: neither the Printer needs to fear any loſſe, nor you any diſhonour by promoting of this laudible deſigne: for I have ſhewed the Copie to the learned, as well as the unlearned, to the rich as well as the poore, and all approve of it, and deſire to have it as ſoon as it ſhall be publiſhed: they think it is a fine experiment to make good bread of an old ſhooe: and though they differ in opinion concerning other affairs, yet they all love to eat bread with one conſent; and if they ſhall agree to practiſe according to their profeſſion, which is to do their beſt endeavours to further the good of the publick, then certainly, the cards will turn, and we ſhall all win our money again by concord, which we have loſt by diſcord, yea and twice as much more. And though many of theſe things which I would have to be put to the beſt uſes, ſeem to be triviall, that is for want of underſtanding in the Readers; for in <hi>Genoa</hi> as I have been credibly informed, it is an uſuall practiſe, to buy barren land for little or nothing, and to carry good earth to it, and cover it ſo deep, as a ſpade or a plough may work upon it; but this practiſe would never countervail the firſt charge, unleſſe they did uſually practiſe another ſtrange work, which is ſo common there, that if an horſe, or a beaſt do dung in any ſtreet, or high-way, it is a marvell if ſome boy or girle do not take it up, before it be cold, ſo carefull are they, that the fertilitie of the Kingdom
+<pb facs="tcp:111354:2"/>
+ſhould not be diminiſhed: And though theſe boyes, and girles get nothing but pinnes and points, or ſome other trifles, yet in the generall the whole Countrey is made rich, and plenti<g ref="char:EOLhyphen"/>full: Even as we ſee in a Bee-hive, though every Bee bring but a drop of honey at a time, yet it maketh up a weightie maſſe, and many of thoſe maſſes put together, do make up the great maſſe, which I have ſeen at <hi>Sturbridge Fayre,</hi> which is able to amaze a man, that be<g ref="char:EOLhyphen"/>holdeth it.</p>
+                  <p>When this Book is publiſhed, then I deſire you to think of the beſt way you can poſſibly imagine, that all the Inhabitants of the whole Kingdom may have knowledge of it gene<g ref="char:EOLhyphen"/>rally; for knowledge that concerneth the publick good, ought not to be concealed in the breſts of a few. As for the large Book, to which this little one hath relation, there is no thinking of publiſhing of it, till we have obtained a Committee to examine witneſſes, and to print their Depoſitions in it: for Project<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs have caſt ſo many bitter things into the publick Fountain, whereof all have drunk, and their minds are ſo poyſoned, that there is no other way to un<g ref="char:EOLhyphen"/>poyſon them, but to win their beleef and willingneſſe to practiſe, by ſuch depoſitions of Gen<g ref="char:EOLhyphen"/>tlemen of qualitie, which know the ſame as well as I my ſelf, and ſome of them have taught me, and I have taught others ſeverall Secrets, and ſome few I know my ſelf ſtill, and no man elſe in the Kingdom, for ought that can be proved; all which reſerved Knowledge in particular Breſts is againſt the Wealth of the Publick, and therefore ought to be made com<g ref="char:EOLhyphen"/>mon to all, or elſe this Deſigne cannot proſper, nor the Kingdom flouriſh according to my de<g ref="char:EOLhyphen"/>ſire. As for your particular Encouragement I need ſay no more, but that by furthering of this friendly Advertiſement, and the perfecting of the Books to which it belongeth, you ſhall become a Furtherer of the moſt Charitable Deſigne that is now on foot in England, beſides the great and manifold Benefit that ſhall redound thereby to the Common-wealth. For I dare undertake that by the right Improvement of the ſeverall Directions and Experiments that ſhall be diſcovered, you ſhall undoubtedly cauſe more naked to be cloathed, more hungry to be fed, more poore Virgins to be preferred in marriage, then <hi>Suttons</hi> Hoſpitall, the Savoy, or all the Hoſpitals or Liberall Gifts in <hi>England</hi> have ever performed. So I reſt,</p>
+                  <closer>
+                     <signed>Your Bounden Servant, <hi>Gabriel Plattes.</hi>
+                     </signed>
+                     <dateline>Weſtminſter <date>this 14. of <hi>May.</hi> 1644.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I peruſed the ſeverall <hi>Mercuries</hi> which go abroad, to wit, <hi>Mercu<g ref="char:EOLhyphen"/>rius Civicus, Merc. Aulicus, Merc. Britanicus, Merc. Coelicus, Merc. Ve<g ref="char:EOLhyphen"/>ridicus, Mercurius Vapulans, &amp;c.</hi> I was ſorry that ſo much Wit, La<g ref="char:EOLhyphen"/>bour and Study ſhould be ſo ſlighted, and produce no better effect; for I have ſeen them before they were a week old, to be careleſly hurled up and down, and ſometimes torn in peeces to light Tobacco, and other uſes not fit to be named. Whereupon I reſolved to try a Concluſion, to write a <hi>Mercurie</hi> that no man ſhould ſo abuſe, but he that is an enemie to himſelf, and to the Common-wealth. And therefore I have ordered the matter ſo, that no man in the Kingdom, which hath ſo much learning as to read it, or ſo much underſtanding as to hear it read with attention, but he may learn to gain a
+<pb facs="tcp:111354:2"/>
+thouſand times the price of it to himſelf, beſides the generall good to the Pub<g ref="char:EOLhyphen"/>lick. But before I tell my Readers what laſting and particular Benefit they are to expect, if they will follow thoſe Directions which ſhall be given them by the following Diſcourſe: Let all men that love themſelves, or the Common-wealth, and Poſteritie, take ſpeciall notice of a certain Book of Husbandry, intituled, <hi>The Treaſure Houſe of Nature unlocked, and ſet wide open to the world, &amp;c.</hi> where they may plainly ſee, that as God is infinite, and men are infinite by propagation, ſo the fruits of the Earth for their food, and cloathing are infinite, if men will conſent to put to their helping hands to this commendable Deſigne.</p>
+            <p>The ſumme of the Book conſiſteth in ſhewing how this Kingdom may main<g ref="char:EOLhyphen"/>tain double the number of people which it doth now, and in farre greater plen<g ref="char:EOLhyphen"/>tie: But whereas the price will be five ſhillings, and every mans purſe is not trou<g ref="char:EOLhyphen"/>bled with ſuperfluitie of Crowns, whom it concerneth; To the end that no man be diſcouraged, I intend to give a Book to every publick Library in the King<g ref="char:EOLhyphen"/>dome, where any man may read it, and write out what he pleaſeth freely. Alſo I intend as ſoon as it ſhall be printed, that in Weſtminſter-Hall, and elſe-where at certain Signes then to be ſet up, the ſaid Book ſhall be ſold for five ſhillings, or lent for two pence a week, to every one that ſhall leave the money, or put in ſecuritie to return it ſafe to the owner.</p>
+            <p>The reaſon why it is not already printed, is for that it containeth many rare Secrets for the Health and Wealth of Men, and ſuch as will ſeem ſo ſtrange, and incredible to moſt men, that they will be likely to ſlight it, to the great preju<g ref="char:EOLhyphen"/>dice of the Common-wealth.</p>
+            <p>Whereupon I am reſolved to wait the Lord of Heaven and Earths leaſure, till ſuch time as he ſhall be graciouſly pleaſed to afford ſo much leaſure to the high and Honourable Court of Parliament to hear ſuch witneſſes as I ſhall produce, to the end that the Depoſitions being printed in the ſame Book, every Subject in the Kingdom, as well in great Cities and Towns Corporate, as in the Countrey, may be ſatisfied concerning the truth thereof, and ſo be more apt to yeeld una<g ref="char:EOLhyphen"/>nimous conſent, which is all that is wanting for the full accompliſhment of this laudable work. And if any man be extraordinarily deſirous to be further ſatiſ<g ref="char:EOLhyphen"/>fied concerning this buſineſſe for the preſent, he may be allowed to peruſe the written Copies before the printing, as many have already done to their great contentment.</p>
+            <p>And I wiſh no man to think that this is a device to exhauſt his purſe; for the truth is, I wrote the ſame for no other cauſe, but becauſe I ſaw that all thoſe books, which were formerly written upon this <hi>Subject,</hi> were written by men which had not attained to any conſiderable <hi>Perfection in the Knowledge of Nature;</hi> and ſuch as had but a glimmering light of ſuch great Secrets, as Nature hath heretofore locked up in her Store-houſe, and ſo were ignorant in the fundamen<g ref="char:EOLhyphen"/>tall points and cauſes of Vegetation and Multiplication. Whereupon I conclu<g ref="char:EOLhyphen"/>ded that the Teachers and the Teached were nothing elſe but the blind leading
+<pb facs="tcp:111354:3"/>
+of the blind, by which we all fell into the ditch; I mean we lived in want and miſerie, when we might more eaſily have lived in plentie and proſperitie.</p>
+            <p>This is the firſt Pamphlet that I wrote ſince the beginning of this Parliament, and I intend it ſhall be the laſt; let every one make uſe of it, whom it concern<g ref="char:EOLhyphen"/>eth freely; which is every one that draweth breath in this Common-wealth, or ſhall draw breath in future ages in it: It is ſufficient for me that I have not bu<g ref="char:EOLhyphen"/>ried my talent.</p>
+            <p>As for the particular way, whereby this wonderfull improvement may be brought to paſſe, here is no roome in this penny book; therefore I will onely ſhew how every one in the Kingdom, as well in great Cities, as in the Countrey towns may be an helper in this happie work, and raiſe ſome conſiderable gain to himſelf, and that great Cities which in former times devoured the fatneſſe of the whole Kingdom, may yeeld a conſiderable retribution yeerly without any mans prejudice, ſo that the fertilitie of the Countrey needs not be ſo much diminiſhed as in former times.</p>
+            <p>And therefore every one is deſired to take this one thing into conſideration, that as any parcell of good land, being kept in paſture, and having the dung, which it breedeth, ſpent upon it, doth continue fertill for ever, without any other addition: ſo the excrements, and materials, which any family produceth, being well contrived, will produce yeerly as much bread, and drink, as that fa<g ref="char:EOLhyphen"/>mily ſpendeth for ever.</p>
+            <p>But the better to ſtir up all poore maid-ſervants to put to their helping hand, let them be pleaſed to underſtand, that I taught a poore woman to get 3. pounds a yeer, which ſhe hath continued many yeers, without any conſiderable labour, or neglecting her other occaſions, and thus ſhe practiſed.</p>
+            <p>When ſhe waſhed, and ſwept roomes at her neighbours houſes, inſtead of caſt<g ref="char:EOLhyphen"/>ing many materials to the common dunghill, ſhe took them home with her at night, and laid them in a corner, and once a yeer, ſhe ſold them for above 3. li. Beſides ſhe laid aſide every yeer as many linen rags as yeelded her fourty ſhil<g ref="char:EOLhyphen"/>lings, and her labour in receiving her five pounds from the Bargeman, or there<g ref="char:EOLhyphen"/>about every yeer, was almoſt as much as all her other labour, I mean extraor<g ref="char:EOLhyphen"/>dinarie labour.</p>
+            <p>If young poore maid-ſervants will imitate her induſtrie, I will tell them the whole Secret, to the intent that beſides the benefit to the publick, every one may get her ſelf a conſiderable portion; and to the end that many may be induſtrious in this laudable way, and that many thouſands may remember me, and my po<g ref="char:EOLhyphen"/>ſterity in their prayers, I will firſt ſpeak a good word for them to all generations to come, to wit, that ſuch an one, which by her wit, induſtrie, and providence, getteth her ſelf a portion of twenty or fourty pounds (which ſhe may eaſily do in a certain number of yeers, not very many) deſerveth as good a marriage as one that hath an hundred pounds given her by her parents, and friends.</p>
+            <p>And to the end that this may not ſeem to be a ridiculous relation, I will ſhew
+<pb facs="tcp:111354:3"/>
+the reaſons of it, and alſo the experience, and laſtly declare the ſeverall materials which I taught her to reſerve.</p>
+            <p>As for the reaſons, they are thus diſcovered, <hi>viz.</hi> the vegetable ſpirit of the world, by which all things do encreaſe and multiply, is ſometimes cloathed with a groſſe, and earthly foeculencie, as in dung, and more in ſome dung, then in other: ſome<g ref="char:EOLhyphen"/>times it is more purified from i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s earthly foeculencie, and then it is far more effectu<g ref="char:EOLhyphen"/>all, as we ſee by experience in London, that a load of ſhavings of horn is ſold for 50 ſhillings, or 3. li. a load of wollen rags is ſold for 30. or 40. s. when as a load of com<g ref="char:EOLhyphen"/>mon dung is ſold for a peny, and many times for nothing but carriage away; the book formerly mentioned, will further ſatisfie any one that is inquiſitive, ſo I will proceed to declare the ſeverall materials which I taught her to reſerve: as for the linen rags ſhe reſerved thoſe before I knew her, and ſold them yeerly to the Paper-Mils, and I ſeeing her induſtrie, thought it a good deed, to adviſe her to reſerve all the ſhreads, and rags of woollen cloth as well old as new, all the ſhreads, and pieces of leather of all kinds as well old as new, all the horns, and hoofs of beaſts of all kinds, whether ſhaven, or not, that came in her way, all the hair, either in Barbers ſhops, or Tanners yards, or at the houſes of Butchers, and Cooks, where they ſcalde many hogs, and pigs, and fondly caſt away the hair, and to take up all the old ſhooes, and peeces of leather which happened in her way, as ſhe went about her or<g ref="char:EOLhyphen"/>dinarie occaſions, and to work as often as ſhe could, at the houſes of Taylors, Shoo<g ref="char:EOLhyphen"/>makers, Sadlers, &amp;c.</p>
+            <p>For I have found by experience, that a load of the beſt common dung, will not produce corn worth above twentie ſhillings at three crops, unleſſe corn be very dear, and if it be far carried, then the labour, rent, and ſeed, will conſume the gains, wher<g ref="char:EOLhyphen"/>as a load of any of theſe materials formerly mentioned, will produce wheat, and other corn, worth above 10. li. though the price be reaſonable.</p>
+            <p>Theſe things being well conſidered, there is great reaſon why theſe materials ſhould not be fondly caſt away to the common dunghill in great Cities, or other places, whereas the greateſt part thereof is utterly loſt; and though ſome of them go to the dunghill, yet they ſerve onely to enrich land, which lieth neer to great Cities, where there is no need of them, whereas being reſerved by themſelves, they will quit the coſt to be carried 20 or 30 miles, and ſo make land fertill, which beareth not half the quantitie for want of dung.</p>
+            <p>And whereas I have found by experience, that a load of any manner of ſeeds, whatſoever, doth contain as much of the vegetable ſpirit of the world, as ten loads of common dung, I could wiſh, that all ſuch young men-ſervants, as have no Stocks nor Trades, ſhould get them ſervices, in great Innes, or to be Bayliffs of Husbandrie to great men, and to reſerve all the hay ſeeds that come within their reach, and all the ſoot that is ſwept down out of the chimneys, that they can get, and once in a yeer to get ſo much blood at any Butchers, or Poulterers houſes, as will make them into a paſte, and then to adde ſo much cow-dung dried to them, as being tempered with urine, will be ſufficient to make the whole maſſe apt to be formed into the form
+<pb facs="tcp:111354:4"/>
+of bricks, loaves, or cheeſes, and then they are to be laid up in a dry place, till they be throughly rotten, and that a ſmall quantitie thereof being made into powder will not produce any thing ſuddenly, being ſpread in a garden or other open place where the rain may fall upon it, without the help of new ſeed, then though their common dung will yeeld no price at all in that place, but rather they are forced to pay money to have it carried away, yet this will give them a large price, after that the vertue thereof is known.</p>
+            <p>And if any ſuch men-ſervants have means to farm certain Acres of barren land, which lieth ſo remote from dung, that the annuall rent thereof is little, then by ſet<g ref="char:EOLhyphen"/>ting of wheat, or other grain, by my directions in my book formerly mentioned, they may make one quarter, or one pounds worth of corn, to yeeld 40. quarters, or 40 pounds worth of corn in leſſe time then one yeer, and as much over, and above, as ſhall pay all charges, and workmen nobly, and alſo as much rent as any ordinary Farmer can affoord to give yeerly for it, by which means he may in a few yeers get a conſiderable Stock, and be as likely to thrive as he that hath twice ſo much given him by his parents, or friends; and I could wiſh all ſuch men to marry with ſuch women as by their wit, induſtrie, and providence have gotten themſelves portions by my directions in this little book: and let the others which have portions given do the like, and try concluſions whether of them thriveth better.</p>
+            <p>If any one ſhould be ſeen to caſt away good bread, when ſo many poore people want it, then all the world would cry ſhame upon him; but why ſhould not the caſt<g ref="char:EOLhyphen"/>ing away of any of theſe materials fondly, be reputed a more hainous ſin, when as they will produce divers times their weight of as good bread as any Prince eateth.</p>
+            <p>I have ſeen by experience, that Salt-peter is the moſt rich compoſt in the world, to multiply corn, and I have ſeen fiftie pounds worth of Salt-peter extracted out of a vault at Dowgate, not very ſpatious, which was formerly an houſe of office, and not emptied till the matter was throughly rotten, why may not the ſame thing be done by Art, which was formerly done by Nature, and accident? I have been cre<g ref="char:EOLhyphen"/>dibly informed that ſuch a work is ordinarily done, in the Kingdom of China, and alſo at the City of Paris in France, and I ſee no reaſon why Engliſh men ſhould not have as much wit as they.</p>
+            <p>If any man hath convenient roome to build two houſes of office, and to cloſe up the one whileſt he uſeth the other, then there can be no queſtion, but that inſtead of the charge of emptying, and noyſomneſſe of the ſmell, he may have it emptied for nothing, and feel the ſweet ſmell of money very gratefull to moſt men, and that in as great quantitie, or greater, then he receiveth for his ordinarie edifices: beſides that he will ſhew himſelf to be a good member of the body politick, or Common<g ref="char:EOLhyphen"/>wealth, wherein he liveth: but he muſt beware, that the matter do lie drie, and that no adventitious moiſture come to it, either from beneath, or from above, which will be ſomewhat more chargeable in moiſt grounds, then where the earth is very drie by its own nature.</p>
+            <p>
+               <pb facs="tcp:111354:4"/>And whereas it is clear as the Sun, that the fleſh and blood of a beaſt is five times as good as the dung of a beaſt, and that the skinne, haire, wooll, horns, and hoofes, are ten times as good as the dung; and that theſe things are at the leaſt the third part of the fertilitie and wealth of the Kingdom, and that theſe things are for the moſt part loſt, and caſt away for want of generall knowledge: I could wiſh that every Houſholder in the Kingdome would make uſe of this book, and let it be com<g ref="char:EOLhyphen"/>mon for all his familie, to read, or heare it read, to the end that ſome conſiderable quantitie thereof might be preſerved, the price is but a penny, the ſoote in everie ones chimney will pay him againe, for a buſhell of ſoote will produce two buſhels of wheat, if it be well ordered, becauſe it aboundeth much with the vegetable ſpirit of the world, by which all ſublunarie things do encreaſe and multiply.</p>
+            <p>And whereas there is much food of all kinds ſpoiled for want of looking, as muſtie corne, mouldie cheeſe, ſtinking fleſh, and fiſh, alſo if any man have any horſes, or beaſts, that die by accident, let all men be pleaſed to receive inſtructions in the ſaid book formerly mentioned, how to recover ſome conſiderable ſhare of their loſſes; and if any one cannot find out ſome way or other to benefit himſelf more or leſſe, by the reading of the ſaid book, beſides the good to the publick, let him lay the blame no where elſe but upon the weakneſſe of his own underſtanding, for it will be proved againſt him, that ſome have advanced their revenues above a thouſand pounds <hi>per annum,</hi> by ſome ſmall part of the skill contained in the ſaid book. And if every poore ſervant cannot get themſelves portions of conſiderable value, by rea<g ref="char:EOLhyphen"/>ſon that their maſters houſes afford not ſtore of ſuch materials, nor ſpare roome to lay them in, then let them get five ſhillings a yeer, that they may do in the pooreſt houſe in the Kingdome, yea the pooreſt beggars, that go from doore to doore, may get more then that, ſo ſhall they get themſelves every yeer a ſuit of clothes, if they buy them at the ſecond hand, and ſhew their love to the Common-wealth; and per<g ref="char:EOLhyphen"/>haps ſome good minded man, ſeeing their induſtrie, may disburſe money for the accompliſhing of one crop, and take it again with intereſt, or without intereſt, out of the firſt part that is ſold, ſo will the remainder afford them a conſiderable por<g ref="char:EOLhyphen"/>tion. And though that waſte paper of all ſorts, either white, or brown, or written, or printed, be not verie good to make barren land fertill, yet it will make good paſſe-board, the white is worth three farthings a pound, and the other an half penny a pound to make brown paſſe-board good to cover books, and all other things where the colour is hidden in the work, and therefore worthy to be reſerved, for in ſome houſes it is of very conſiderable value.</p>
+            <p>And let all men be pleaſed to take into ſerious conſideration, that as in everie centurie of yeers there do more people die, then are in the world at any one time; ſo in everie centurie of yeers, there is more Wealth loſt fondly for want of know<g ref="char:EOLhyphen"/>ledge in England, in the compleat Art of Agriculture, then is in the Kingdome at any one time, yea though an Inventorie were taken, and valued at Michaelmas, when the whole yeers fruits are engroſſed together, which ſumme will double
+<pb facs="tcp:111354:5" rendition="simple:additions"/>
+throughout the whole Kingdome, (eſpecially in the Countrey) to the like Inven<g ref="char:EOLhyphen"/>torie taken at May day, when the yeers fruits are almoſt waſted, and little remaining but hopes, which are not uſually put into Inventories.</p>
+            <p>Whereas it will plainly appear to all rationall men, that I wiſh well to all in ge<g ref="char:EOLhyphen"/>nerall, let them be pleaſed to accept of one friendly advertiſement more, for a part<g ref="char:EOLhyphen"/>ing blowe, Chriſt ſaith, he that is not with me, is againſt me, admitting of no neu<g ref="char:EOLhyphen"/>tralitie: and I ſay, that whoſoever doth not according to his abilitie, and opportu<g ref="char:EOLhyphen"/>nitie, further this bleſſed work, more or leſſe, liveth in a deſtructive way to the Com<g ref="char:EOLhyphen"/>mon-wealth, or body politick, whereof he is a member, though an unworthy one, and juſtly deſerveth to be cut off after admonition, which an ingenious publication of this book will perform in ſuch manner, that whoſoever ſhall fondly caſt away any materials, which will produce bread, cannot expect any other ſentence at the great day of account, but the very ſame which all thoſe are like to receive, which have taken childrens bread, and caſt it to the dogs.</p>
+            <p>Now for my concluſion, I will make bold to borrow it out of <hi>Geber</hi> his book, an Arabian Prince, and a famous Phyloſopher, becauſe my wit will not ſerve to endite a better: he when he had found out the profound Art of tranſmutation of metals, ſaid, <hi>Facilius eſt autum conſtruere, quam deſtruere:</hi> and I ſay, that it is more eaſie for any Kingdome to live in happineſſe, plentie, and proſperitie, if all were willing, then to live in miſerie, indigence, and adverſitie; he being over-joyed, and ſtraying his wit for an admirable expreſſion of his thankfulneſſe to the ſacred Deitie, for beſtowing upon him that great knowledge, ſaid thus; <hi>Eſt donum Dei altiſſimi, qui cui vult, largi<g ref="char:EOLhyphen"/>tur &amp; ſubtrahit, benedictus ergo ſit Deus ſublimis, glorioſus, &amp; omnipotens, &amp; benedictum ſit ejus nomen, in ſecula ſeculorum:</hi> And all that have ſeen this Copie before the printing, are confident that it will do more good in the world, then ever the Phyloſophers Stone did yet ſince the world began, whereupon I ſuppoſe I may lawfully make uſe of his concluſion.</p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſal. 41. verſ. 1.</hi>
+                  </bibl>
+                  <p>Bleſſed is he that conſidereth the poore and needie: the Lord will deliver him in the time of trouble.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Printed according to Order.</p>
+                  <p>For <hi>T. U.</hi> at the Bible in Woodſtreet.</p>
+               </body>
+            </floatingText>
+         </div>
+      </back>
+   </text>
+</TEI>
